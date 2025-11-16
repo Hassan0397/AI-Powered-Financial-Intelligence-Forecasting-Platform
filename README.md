@@ -234,11 +234,13 @@ A comprehensive, end-to-end **data analytics** with **Generative AI** platform t
 
 ## 🚀 Getting Started
 
+## Download Complete Project From Google Drive
+
+**[Downlaod](https://drive.google.com/drive/folders/1gUSdysXcNOa0M_IZ_My4s-W96es0fx0y?usp=sharing)**
+
 ### Installation
 
 ```bash
-# Clone repository
-git clone https://github.com/your-username/ai-financial-platform.git
 
 # Install dependencies
 pip install -r requirements.txt
