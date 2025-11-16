@@ -178,27 +178,66 @@ A comprehensive, end-to-end **data analytics** with **Generative AI** platform t
 * Navigate all modules
 
 ### Data Processing Page
+
+**[Data process Preview 1](https://github.com/Hassan0397/AI-Powered-Financial-Intelligence-Forecasting-Platform/blob/main/Clean%20Data%20Preview%201.png)**
+
+**[Data process Preview 2](https://github.com/Hassan0397/AI-Powered-Financial-Intelligence-Forecasting-Platform/blob/main/Clean%20Data%20Preview%202.png)**
+
 * Auto-cleaning
 * Data quality score
 * Export cleaned datasets
 
 ### Analytics Dashboard
+
+**[Analytics Dashboard Preview 1](https://github.com/Hassan0397/AI-Powered-Financial-Intelligence-Forecasting-Platform/blob/main/Advance%20analysis%20Preview%201.png)**
+
+**[Analytics Dashboard Preview 2](https://github.com/Hassan0397/AI-Powered-Financial-Intelligence-Forecasting-Platform/blob/main/Advance%20analysis%20Preview%202.png)**
+
+**[Analytics Dashboard Preview 3](https://github.com/Hassan0397/AI-Powered-Financial-Intelligence-Forecasting-Platform/blob/main/Advance%20analysis%20Preview%203.png)**
+
+**[Analytics Dashboard Preview 4](https://github.com/Hassan0397/AI-Powered-Financial-Intelligence-Forecasting-Platform/blob/main/Advance%20analysis%20Preview%204.png)**
+
+**[Analytics Dashboard Preview 5](https://github.com/Hassan0397/AI-Powered-Financial-Intelligence-Forecasting-Platform/blob/main/Advance%20analysis%20Preview%205.png)**
+
+**[Analytics Dashboard Preview 6](https://github.com/Hassan0397/AI-Powered-Financial-Intelligence-Forecasting-Platform/blob/main/Advance%20analysis%20Preview%206.png)**
+
+**[Analytics Dashboard Preview 7](https://github.com/Hassan0397/AI-Powered-Financial-Intelligence-Forecasting-Platform/blob/main/Advance%20analysis%20Preview%207.png)**
+
+**[Analytics Dashboard Preview 8](https://github.com/Hassan0397/AI-Powered-Financial-Intelligence-Forecasting-Platform/blob/main/Advance%20analysis%20Preview%208.png)**
+
+**[Analytics Dashboard Preview 9](https://github.com/Hassan0397/AI-Powered-Financial-Intelligence-Forecasting-Platform/blob/main/Advance%20analysis%20Preview%209.png)**
+
 * KPIs
 * Filters
 * Trends & comparisons
 
 ### Forecasting Page
+
+**[Forecasting Preview 1](https://github.com/Hassan0397/AI-Powered-Financial-Intelligence-Forecasting-Platform/blob/main/Forecasting%20Preview%201.png)**
+
+**[Forecasting Preview 2](https://github.com/Hassan0397/AI-Powered-Financial-Intelligence-Forecasting-Platform/blob/main/Forecasting%20Preview%202.png)**
+
 * Model selection
 * Custom forecast periods
 * Scenario modeling
 * Performance metrics
 
 ### AI Insights Page
+
+**[AI Insight Preview 1](https://github.com/Hassan0397/AI-Powered-Financial-Intelligence-Forecasting-Platform/blob/main/AI%20Insight.png)**
+
+**[AI Insight Preview 2](https://github.com/Hassan0397/AI-Powered-Financial-Intelligence-Forecasting-Platform/blob/main/AI%20Insight%20Preview%202.png)**
+
+**[AI Insight Preview 3](https://github.com/Hassan0397/AI-Powered-Financial-Intelligence-Forecasting-Platform/blob/main/AI%20Insight%20Preview%203.png)**
+
 * Strategic recommendations
 * Automated summaries
 * Risk analysis
 
 ### Report Generator Page
+
+**[Report Generator Preview](https://github.com/Hassan0397/AI-Powered-Financial-Intelligence-Forecasting-Platform/blob/main/Report%20generator.png)**
+
 * Templates
 * Branding
 * PDF/Markdown export
