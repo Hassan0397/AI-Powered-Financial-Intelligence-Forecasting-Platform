@@ -166,6 +166,13 @@ A comprehensive, end-to-end **data analytics** with **Generative AI** platform t
 ## 🎯 Feature Objectives by Page
 
 ### Main Dashboard
+
+**[Dashboard Preview 1](https://github.com/Hassan0397/AI-Powered-Financial-Intelligence-Forecasting-Platform/blob/main/Dashboard%20Preview%201.png)**
+
+**[Dashboard Preview 2](https://github.com/Hassan0397/AI-Powered-Financial-Intelligence-Forecasting-Platform/blob/main/Dashboard%20Preview%202.png)**
+
+**[Dashboard Preview 3](https://github.com/Hassan0397/AI-Powered-Financial-Intelligence-Forecasting-Platform/blob/main/Dashboard%20Preview%203.png)**
+
 * Upload data
 * Validate dataset
 * Navigate all modules
